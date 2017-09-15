@@ -17,7 +17,7 @@
 
 They say a picture is worth 1000 words - but have you ever considered how many lines of code that might convert to? Regardless of the answer, Markdown makes it easy include pictures of all sorts into your document. Don't believe me? See the source code yourself!
 
-![alt text](https://imgur.com/gallery/mMxJY "I took this photo from West Mall. Honestly.")
+![alt text](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAc9AAAAJGZlZGIxNTU3LWYyNGYtNGFhYi1iMmYxLTRkODIwYjNlMTJjYQ.jpg)
 
 
 ### Link logic
