@@ -7,7 +7,7 @@
 
 #### Seth Wynes
 
-*I am a PhD student in the [Department of Geography](http://www.geog.ubc.ca/), studying climate change mitigation*
+*I am a PhD student in the [Department of Geography](http://www.geog.ubc.ca/), studying climate change mitigation. I'm originally from Ontario but I'm loving this beautiful province!*
 
 ##Useful links
 - [Stats 545 homepage](stat545.com)
