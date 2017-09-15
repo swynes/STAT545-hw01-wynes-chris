@@ -17,6 +17,10 @@ homework day 1
 
 *I am a PhD student in the Department of Geography*
 
+##Useful links
+-[Stats 545 homepage](stat545.com)
+-[Stats 545 syllabus](http://stat545.com/syllabus.html)
+-[Stack Overflow](https://stackoverflow.com/)
 
 Want to *italicize* something? Maybe even **bold** or ~~strikeout~~ a phrase? How about **combining <del>*a few of</del> them at a* time?** For that, Markdown has you covered.
 
