@@ -1,49 +1,19 @@
 # STAT545-hw01-wynes-chris
-homework day 1
-# A Sample Readme in the Style of Github Markdown
 
-## Status
-
-|    **Item**    | **Status** |
-|----------------|------------|
-| Finished-ness  | :thumbsdown: |
-| Happiness      | :poop:   |
-| Markdowny-ness | :heart:  |
+## Learning how to use rmarkdown and Github
 
 ## Overview
-**For my homework, I have created a readme document to introduce myself to the class and experiment with the range of Markdown features.**
+**For my homework, I have created a readme document to introduce myself to the class**
 
 #### Seth Wynes
 
-*I am a PhD student in the Department of Geography*
+*I am a PhD student in the [Department of Geography](http://www.geog.ubc.ca/), studying climate change mitigation*
 
 ##Useful links
 - [Stats 545 homepage](stat545.com)
 - [Stats 545 syllabus](http://stat545.com/syllabus.html)
 - [Stack Overflow](https://stackoverflow.com/)
 
-Want to *italicize* something? Maybe even **bold** or ~~strikeout~~ a phrase? How about **combining <del>*a few of</del> them at a* time?** For that, Markdown has you covered.
-
-#### Bullet point basics
-
-- How about lists?
-- They work nicely too
-	+ Sometimes
-		* we can
-			- even
-				+ indent them
-
-#### Header how-tos
-
-The header above is "H4" size. This readme document's headers' sizes range from "H2" to "H4" depending on the number of hashtags in front of them
-
-### Quoting quotables
-
->Nothing gold can stay
->Robert Frost
-
-
-### Imagining images
 
 They say a picture is worth 1000 words - but have you ever considered how many lines of code that might convert to? Regardless of the answer, Markdown makes it easy include pictures of all sorts into your document. Don't believe me? See the source code yourself!
 
