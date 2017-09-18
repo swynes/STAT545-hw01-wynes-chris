@@ -1,0 +1,31 @@
+---
+title: "hwk001_gapminder"
+author: "Wynes"
+date: "`r format(Sys.Date())`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(gapminder)
+str(gapminder)
+  library(tidyverse)
+head(gapminder)
+hist(gapminder$lifeExp)
+table(gapminder$continent)
+barplot(table(gapminder$continent))
+
+#ggplot exercises with gapminder
+p <- ggplot(filter(gapminder, continent != "Oceania"),
+            aes(x = gdpPercap, y = lifeExp)) # just initializes
+p <- p + scale_x_log10() # log the x axis the right way
+p + geom_point() # scatterplot
+p + geom_point(aes(color = continent)) # map continent to color
+p + geom_point(alpha = (1/3), size = 3) + geom_smooth(lwd = 3, se = FALSE)
+p + geom_point(alpha = (1/3), size = 3) + facet_wrap(~ continent) +
+  geom_smooth(lwd = 1.5, se = FALSE)
+
